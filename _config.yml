@@ -1,5 +1,5 @@
 # Site settings
-title: Suwai Aslam
+title: Suwaid Aslam
 email: suwaidaslam@gmail.com
 url: https://github.com/SuwaidAslam
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Suwaid Aslam 2021
+  copyright: Suwaid Aslam
   location: Location
   social: Around the Web
   credits: Credits
