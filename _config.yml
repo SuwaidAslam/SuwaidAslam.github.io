@@ -2,7 +2,7 @@
 title: Suwaid Aslam
 email: suwaidaslam@gmail.com
 url: https://github.com/SuwaidAslam
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Hi, I am Suwaid, I am a data Scientist and a Machine learning Engineer. I code in Python and C++. I am here as a student, intern and a freelancer, constantly learning new technologies."
 keywords: "Portfolio, Developer, C++ Developer, data scientist, Machine learning, Engineer, Software Engineer, Programmer, Linkdin, Github, stackoverflow"
 skills: "Data Scientist - Machine Learning Engineer - C++ Developer"
 meta_author: Aslam Suwaid
@@ -45,8 +45,8 @@ social:
     url: https://www.facebook.com/suwaid0aslam
   - title: stack-overflow
     url: https://stackoverflow.com/users/10910070/suwaid-aslam
-  - title: bitbucket
-    url: https://bitbucket.org/suwaidaslam/
+  - title: linkdin
+    url: https://www.linkedin.com/in/muhammad-suwaid-aslam/
   - title: github
     url: https://github.com/SuwaidAslam
 
